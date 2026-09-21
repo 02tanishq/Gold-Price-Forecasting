@@ -8,7 +8,7 @@ This project combines time-series forecasting, financial feature engineering, LS
 
 ## Live Demo
 ```text
-https://aashutoshgoldapp.streamlit.app/
+[https://gold-price-forecasting-tanishq.streamlit.app/]
 ```
 
 ---
@@ -298,7 +298,7 @@ commodity/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aashutosh4all/Gold-Forecasting-.git
+git clone [https://github.com/02tanishq/Gold-Price-Forecasting/tree/main].git
 cd Gold-Forecasting-
 ```
 
