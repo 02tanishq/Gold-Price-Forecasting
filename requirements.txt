@@ -1,6 +1,6 @@
 streamlit
 pandas
-numpy<2.2
+numpy==1.26.4
 yfinance
 plotly
 tensorflow==2.19.1
